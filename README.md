@@ -1,8 +1,8 @@
 # Aditya Raj Singh
 <br/>
-<img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/gif.gif?raw=true" width=100% height=400px />
 
-### Hi There <http://black%20love%2C%20giphyblacklove%2C%20blacklove/" height=35px width=35px/>
+
+### Hi There <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/wave-hello.gif" height=35px width=35px/>
 
 - 🔭 I’m currently working on IoT Projects.
 - <img src="https://github.com/Ddhruv-IOT/Ddhruv-IOT/blob/main/assetes/ai.gif" height=20px width=20px/> I’m currently learning Artificial Intelligence.
