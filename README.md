@@ -1,4 +1,4 @@
-![logo](https://github.com/AdityaRajSingh007/AdityaRajSingh007/commits?author=AdityaRajSingh007)
+![logo](https://github.com/AdityaRajSingh007/AdityaRajSingh007/blob/main/Aditya%20Raj%20Singh%20Banner.gif)
 <h1 align="center">Heyyy! Aditya Raj Singh!</h1>
 <h3 align="center">A Budding Developer Currently In 2nd Semester Of C.S.E.</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
