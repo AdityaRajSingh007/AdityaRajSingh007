@@ -1,5 +1,5 @@
 ![logo](https://github.com/AdityaRajSingh007/AdityaRajSingh007/blob/main/Aditya%20Raj%20Singh%20Banner.gif)
-<h1 align="center">Heyyy! Aditya Raj Singh!</h1>
+<h1 align="center">Hey! Aditya Raj Singh Here!</h1>
 <h3 align="center">A Budding Developer Currently In 2nd Semester Of C.S.E.</h3>
 
 
@@ -11,13 +11,13 @@
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 🌱 I’m currently learning **Python, Tailwind CSS, DSA, React**
 
-- 💬 Ask me about **C, C++, HTML5**
+- 💬 Ask me about **C, C++, HTML, QBasic**
 
 - 📫 How to reach me **adityashailendra477@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/adityarajsingh007/](https://www.linkedin.com/in/adityarajsingh007/)
 
-- ⚡ Fun fact **I am a Philomath**
+- ⚡ Fun fact **I am a Philomath📚**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,6 +29,6 @@
 
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/Ibs7FxlQYG2DZed2wX/200w.gif?cid=82a1493bypko3sd9dotwqeftastzek2zvrn2p8kvp3lyfrbw&rid=200w.gif&ct=g">
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityarajsingh007&show_icons=true&locale=en" alt="adityarajsingh007" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adityarajsingh007&show_icons=true&locale=en" width="500" alt="adityarajsingh007" /></p>
 </br></br></br></br></br></br></br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajsingh007&" alt="adityarajsingh007" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adityarajsingh007&" width="500" alt="adityarajsingh007" /></p>
