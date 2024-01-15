@@ -1,6 +1,6 @@
 ![logo](https://github.com/AdityaRajSingh007/AdityaRajSingh007/blob/main/Aditya%20Raj%20Singh%20Banner.gif)
 <h1 align="center">Hey! Aditya Raj Singh Here!</h1>
-<h3 align="center">A Budding Developer Currently In 2nd Semester Of C.S.E.</h3>
+<h3 align="center">A Budding Developer Currently In 4th Semester Of C.S.E.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityarajsingh007&label=Profile%20views&color=0e75b6&style=flat" alt="adityarajsingh007" /> </p>
